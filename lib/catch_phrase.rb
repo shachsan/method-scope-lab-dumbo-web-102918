@@ -1,4 +1,4 @@
-def catch_phrase(arg)
-  phrase = arg 
+def catch_phrase
+  
   puts phrase
 end
